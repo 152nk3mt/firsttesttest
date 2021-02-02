@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: cylyc
+Build-Jdk: 10.0.1
+Implementation-Title: firsttest
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: cn.unowen
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/firsttest
+Created-By: Maven Integration for Eclipse
+
